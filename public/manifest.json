@@ -1,0 +1,22 @@
+{
+    "name": "koinx-frontend-assignment",
+    "version": "1.0.0",
+    "description": "Track Bitcoin prices and trending cryptocurrency data in real-time.",
+    "main": "src/pages/index.js",
+    "scripts": {
+      "start": "next start",
+      "dev": "next dev",
+      "build": "next build",
+      "lint": "next lint"
+    },
+    "dependencies": {
+      "next": "latest",
+      "react": "latest",
+      "react-dom": "latest",
+      "axios": "^1.0.0"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": "MIT"
+  }
+  
